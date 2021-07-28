@@ -1,4 +1,5 @@
-- :heart::smile:
+- :heart:
+- :smile::heart:
 - :wink:
 * 1
 * 2
